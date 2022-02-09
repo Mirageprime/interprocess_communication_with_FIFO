@@ -1,0 +1,9 @@
+//Contents
+interprocess_communication.sh //プロセス間通信を実行
+sending_side //送信側のコード
+receiving_side //受信側のコード
+
+//Usage
+
+$ ./interprocess_communication.sh
+
