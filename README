@@ -4,6 +4,12 @@ sending_side //送信側のコード
 receiving_side //受信側のコード
 
 //Usage
+/*
+sending_sideとreceiving_sideをそれぞれビルド
+sending_sideのbuild directoryは/ローカルリポジトリ/build_sending_side
+receiving_sideのbuild directoryは/ローカルリポジトリ/build_sending_side
+にしないとシェルスクリプトを実行できません
+*/
 
+//シェルスクリプトを実行
 $ ./interprocess_communication.sh
-
