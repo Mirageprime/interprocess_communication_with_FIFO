@@ -1,7 +1,7 @@
 //Contents
 sending_side //送信側のコード
 receiving_side //受信側のコード
+interprocess_communication.sh //プロセス間通信を実行するスクリプト
 
 //Usage
-ビルドファイルserver_side*/内のserver_sideを実行後、
-ビルドファイルclient_side*/内のclient_sideを実行。
+interprocess_communication.shを実行。
