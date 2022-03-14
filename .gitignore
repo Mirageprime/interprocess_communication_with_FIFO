@@ -1,5 +1,5 @@
-build-receiving_side-Desktop-Debug/
-build-sending_side-Desktop-Debug/
+build-receiving_side-Desktop*/
+build-sending_side-Desktop*/
 receiving_side/receiving_side.pro.user.79fab72
 sending_side/sending_side.pro.user.79fab72
 receiving_side/receiving_side.pro.user
