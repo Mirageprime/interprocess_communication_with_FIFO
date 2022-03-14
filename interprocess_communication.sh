@@ -1,6 +1,5 @@
-./build_receiving_side/receiving_side & 
-./build_sending_side/sending_side
-
-
-
+#!/bin/bash
+./build-receiving_side*/receiving_side &
+sleep 2
+./build-sending_side*/sending_side 
 
